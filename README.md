@@ -55,7 +55,7 @@
 <code>[ЧЕК ЛИСТ ПО ЮЗАБИЛИТИ САЙТА]([Usability testing](https://seo-akademiya.com/baza-znanij/vnutrennyaya-optimizacziya/chek-list-po-yuzabiliti-sajta/))
 </code>
 
-<code>[ЧТО ТЕСТИРОВАТЬ В ПОИСКЕ?]([Search Поиск](https://testmatick.com/ru/chto-testirovat-v-poiske/))
+<code>[ЧТО ТЕСТИРОВАТЬ В ПОИСКЕ?]([Search Поиск](https://habr.com/ru/companies/renins/articles/558436/))
 </code>
 
 # Test case design techniques
