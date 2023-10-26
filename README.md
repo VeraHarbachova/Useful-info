@@ -5,7 +5,6 @@
 <code>[Чем полезен DevTools тестировщику: об основных вкладках и инструментах]([DevTools with screenshots](https://habr.com/ru/articles/768830/))
 </code>
 
-
 # ISTQB
 
 <code>[Как тестировщику получить сертификат  ISTQB]([Preparation, registration for the exam, exam interface and procedure](https://habr.com/ru/articles/754418/))
@@ -21,6 +20,11 @@
 
 # Git
 <code>[Гайд по работе с деревом коммитов Git для начинающих]([Git basics](https://proglib.io/p/gayd-po-rabote-s-derevom-kommitov-git-dlya-nachinayushchih-2023-02-02))
+</code>
+
+# Postman
+
+<code>[Postman Beginner's Course]([API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4))
 </code>
 
 # Cheatsheet
