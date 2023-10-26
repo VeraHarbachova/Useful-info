@@ -11,4 +11,12 @@
 <code>[Как тестировщику получить сертификат  ISTQB]([Preparation, registration for the exam, exam interface and procedure](https://habr.com/ru/articles/768830/))
 </code>
 
+<code>[Обзор новой версии сертификации ISTQB Foundation Level 4.0 (2024) для Тестировщиков]([new in version 4.0](https://habr.com/ru/articles/768830/))
+</code>
+
+# XPath
+
+<code>[XPath — быстрый гайд]([XPath with images]([https://habr.com/ru/articles/768830/](https://testengineer.ru/xpath-quick-guide/)https://testengineer.ru/xpath-quick-guide/))
+</code>
+
 
