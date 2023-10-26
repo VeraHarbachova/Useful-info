@@ -25,7 +25,7 @@
 
 # Cheatsheet
 
-<code>[Xpath]([Cheatsheet](https://devhints.io/xpath))
+<code>[Xpath]([XPath cheatsheet](https://devhints.io/xpath))
 </code>
 
 
