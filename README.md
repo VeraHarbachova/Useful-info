@@ -23,3 +23,10 @@
 <code>[Гайд по работе с деревом коммитов Git для начинающих]([Git basics](https://proglib.io/p/gayd-po-rabote-s-derevom-kommitov-git-dlya-nachinayushchih-2023-02-02))
 </code>
 
+# Cheatsheet
+
+<code>[Xpath]([Cheatsheet](https://devhints.io/xpath))
+</code>
+
+
+
