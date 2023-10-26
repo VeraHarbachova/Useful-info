@@ -16,7 +16,5 @@
 
 # XPath
 
-<code>[XPath — быстрый гайд]([XPath with images]([https://habr.com/ru/articles/768830/](https://testengineer.ru/xpath-quick-guide/)https://testengineer.ru/xpath-quick-guide/))
+<code>[XPath — быстрый гайд]([XPath with images](https://testengineer.ru/xpath-quick-guide/))
 </code>
-
-
