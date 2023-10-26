@@ -47,9 +47,20 @@
 <code>[Как тестировать методы REST API]([Чек-лист проверок @Molechka](https://habr.com/ru/articles/704090/))
 </code>
 
+<code>[Погружение qa junior в пучину API с использованием SoapUI(Open Source)]([SOAP](https://habr.com/ru/companies/renins/articles/558436/))
+</code>
+
 # Check-lists
 
 <code>[ЧЕК ЛИСТ ПО ЮЗАБИЛИТИ САЙТА]([Usability testing](https://seo-akademiya.com/baza-znanij/vnutrennyaya-optimizacziya/chek-list-po-yuzabiliti-sajta/))
+</code>
+
+<code>[ЧТО ТЕСТИРОВАТЬ В ПОИСКЕ?]([Search](https://testmatick.com/ru/chto-testirovat-v-poiske/))
+</code>
+
+# Test case design techniques
+
+<code>[Decision Table — что это и как применять]([Decision Table](https://habr.com/ru/articles/546432/))
 </code>
 
 # Start in Automation (articles, tools)
