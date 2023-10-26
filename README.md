@@ -27,6 +27,9 @@
 <code>[Postman Beginner's Course]([API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4))
 </code>
 
+<code>[Разбор OpenAPI документации "try.vikunja.io" с использованием Postman (2-3 примера)]([ProTestingInfo QA](https://www.youtube.com/watch?v=7BvrTyrOVIM))
+</code>
+
 # Cheatsheet
 
 <code>[Xpath]([XPath cheatsheet](https://devhints.io/xpath))
