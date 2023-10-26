@@ -13,9 +13,12 @@
 <code>[Обзор новой версии сертификации ISTQB Foundation Level 4.0 (2024) для Тестировщиков]([new in version 4.0](https://habr.com/ru/articles/750868/))
 </code>
 
-# XPath
+# XPath & CSS Locators
 
 <code>[XPath — быстрый гайд]([XPath with images](https://testengineer.ru/xpath-quick-guide/))
+</code>
+
+<code>[CSS и XPath для QA]([чтобы разобраться с локаторами, нужно всего лишь…](https://habr.com/ru/companies/skyeng/articles/588282/))
 </code>
 
 # Git
