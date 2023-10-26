@@ -47,6 +47,9 @@
 <code>[Ценный QA Automation – кто он на самом деле? Загадка от Жака Фреско]([стать QAA](https://habr.com/ru/companies/skyeng/articles/705190/))
 </code>
 
+<code>[Как продумать тесты для автоматизации)]([в двух словах, что автоматизировать](https://okiseleva.blogspot.com/2022/11/blog-post_24.html))
+</code>
+
 
 
 
