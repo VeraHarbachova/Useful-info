@@ -18,3 +18,8 @@
 
 <code>[XPath — быстрый гайд]([XPath with images](https://testengineer.ru/xpath-quick-guide/))
 </code>
+
+# Git
+<code>[Гайд по работе с деревом коммитов Git для начинающих]([Git basics](https://proglib.io/p/gayd-po-rabote-s-derevom-kommitov-git-dlya-nachinayushchih-2023-02-02))
+</code>
+
