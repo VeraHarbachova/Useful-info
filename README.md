@@ -42,6 +42,16 @@
 <code>[Web Testing Specific]([особенности тестирования Web по разделам](https://habr.com/ru/companies/space307/articles/668974/))
 </code>
 
+# API
+
+<code>[Как тестировать методы REST API]([Чек-лист проверок @Molechka](https://habr.com/ru/articles/704090/))
+</code>
+
+# Check-lists
+
+<code>[ЧЕК ЛИСТ ПО ЮЗАБИЛИТИ САЙТА]([Usability testing](https://seo-akademiya.com/baza-znanij/vnutrennyaya-optimizacziya/chek-list-po-yuzabiliti-sajta/))
+</code>
+
 # Start in Automation (articles, tools)
 
 <code>[Ценный QA Automation – кто он на самом деле? Загадка от Жака Фреско]([стать QAA](https://habr.com/ru/companies/skyeng/articles/705190/))
@@ -49,6 +59,8 @@
 
 <code>[Как продумать тесты для автоматизации)]([в двух словах, что автоматизировать](https://okiseleva.blogspot.com/2022/11/blog-post_24.html))
 </code>
+
+
 
 
 
