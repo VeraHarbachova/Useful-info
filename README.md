@@ -32,5 +32,11 @@
 <code>[Xpath]([XPath cheatsheet](https://devhints.io/xpath))
 </code>
 
+# Start in Automation (articles, tools)
+
+<code>[Ценный QA Automation – кто он на самом деле? Загадка от Жака Фреско]([стать QAA](https://habr.com/ru/companies/skyeng/articles/705190/))
+</code>
+
+
 
 
