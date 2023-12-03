@@ -84,7 +84,7 @@
 <code>[Как продумать тесты для автоматизации)]([в двух словах, что автоматизировать](https://okiseleva.blogspot.com/2022/11/blog-post_24.html))
 </code>
 
-<code>[Дока с примерами]([JavaScript](https://doka.guide/js/))
+<code>[Examples]([JavaScript Basic](https://doka.guide/js/))
 </code>
 
 <code>[Tutorials]([JavaScript ](https://www.w3schools.com/))
