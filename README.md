@@ -87,7 +87,7 @@
 <code>[Дока с примерами]([JavaScript](https://doka.guide/js/))
 </code>
 
-<code>[Tutorials]([JavaScript](https://www.w3schools.com/))
+<code>[Tutorials]([JavaScript ](https://www.w3schools.com/))
 </code>
 
 # E-book
