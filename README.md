@@ -58,6 +58,9 @@
 <code>[ЧЕК ЛИСТ ПО ЮЗАБИЛИТИ САЙТА]([Usability testing](https://seo-akademiya.com/baza-znanij/vnutrennyaya-optimizacziya/chek-list-po-yuzabiliti-sajta/))
 </code>
 
+<code>[Полезные материалы]([Чек-листы и другие вспомогательные материалы](https://qalearning.net/home/usefullresourses))
+</code>
+
 # Test case design techniques
 
 <code>[Decision Table — что это и как применять]([Decision Table](https://habr.com/ru/articles/546432/))
