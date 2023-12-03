@@ -71,6 +71,11 @@
 <code>[Как продумать тесты для автоматизации)]([в двух словах, что автоматизировать](https://okiseleva.blogspot.com/2022/11/blog-post_24.html))
 </code>
 
+# E-book
+<code>[Quality Assurance Handbook]([Infinum QA Handbook](https://infinum.com/handbook/qa))
+</code>
+
+
 
 
 
