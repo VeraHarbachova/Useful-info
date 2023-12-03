@@ -72,6 +72,7 @@
 </code>
 
 # E-book
+
 <code>[Quality Assurance Handbook]([Infinum QA Handbook](https://infinum.com/handbook/qa))
 </code>
 
