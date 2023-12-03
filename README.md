@@ -2,8 +2,18 @@
 
 # DevTools
 
+<code>[Всё, Что Нужно Знать О Chrome DevTools]([Продвинутый Курс Тестирование ПО](https://www.youtube.com/watch?v=4iIryVM77HM))
+</code>
+
 <code>[Чем полезен DevTools тестировщику: об основных вкладках и инструментах]([DevTools with screenshots](https://habr.com/ru/articles/768830/))
 </code>
+
+<code>[Интересные возможности DevTools для QA]([DevTools with screenshots](https://fuse8.ru/articles/interesting-devtools-features-for-qa))
+</code>
+
+<code>[Devtools для тестировщика]([DevTools применение на практике](https://www.youtube.com/watch?v=rjavgfb4cn0))
+</code>
+
 
 # ISTQB
 
@@ -72,6 +82,12 @@
 </code>
 
 <code>[Как продумать тесты для автоматизации)]([в двух словах, что автоматизировать](https://okiseleva.blogspot.com/2022/11/blog-post_24.html))
+</code>
+
+<code>[Дока с примерами]([JavaScript](https://doka.guide/js/))
+</code>
+
+<code>[Tutorials]([JavaScript](https://www.w3schools.com/))
 </code>
 
 # E-book
