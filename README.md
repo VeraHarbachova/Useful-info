@@ -79,6 +79,11 @@
 <code>[Quality Assurance Handbook]([Infinum QA Handbook](https://infinum.com/handbook/qa))
 </code>
 
+# English 
+
+<code>[Learning English]([Courses, grammar, vocabulary](https://www.bbc.co.uk/))
+</code>
+
 
 
 
