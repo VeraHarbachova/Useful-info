@@ -60,6 +60,10 @@
 <code>[Как тестировать методы REST API]([Чек-лист проверок @Molechka](https://habr.com/ru/articles/704090/))
 </code>
 
+<code>[Learn REST APIs]([Rapid API LEARN](https://rapidapi.com/learn/rest#what-is-http))
+</code>
+
+
 <code>[Погружение qa junior в пучину API с использованием SoapUI]([тестирование SOAP- запросов через SOAP UI Open Source](https://habr.com/ru/companies/renins/articles/558436/))
 </code>
 
