@@ -14,13 +14,15 @@
 <code>[Devtools для тестировщика]([DevTools применение на практике](https://www.youtube.com/watch?v=rjavgfb4cn0))
 </code>
 
-
 # ISTQB
 
 <code>[Как тестировщику получить сертификат  ISTQB]([Preparation, registration for the exam, exam interface and procedure](https://habr.com/ru/articles/754418/))
 </code>
 
 <code>[Обзор новой версии сертификации ISTQB Foundation Level 4.0 (2024) для Тестировщиков]([new in version 4.0](https://habr.com/ru/articles/750868/))
+</code>
+
+<code>[Бесплатный практический тест]([ISTQB практика](https://www.gasq.org/ru/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.html))
 </code>
 
 # XPath & CSS Locators
@@ -63,7 +65,6 @@
 <code>[Learn REST APIs]([Rapid API LEARN](https://rapidapi.com/learn/rest#what-is-http))
 </code>
 
-
 <code>[Погружение qa junior в пучину API с использованием SoapUI]([тестирование SOAP- запросов через SOAP UI Open Source](https://habr.com/ru/companies/renins/articles/558436/))
 </code>
 
@@ -73,6 +74,9 @@
 </code>
 
 <code>[Полезные материалы]([Чек-листы и другие вспомогательные материалы](https://qalearning.net/home/usefullresourses))
+</code>
+
+<code>[Памятка тестировщику]([Чит-лист функционального тестирования](https://habr.com/ru/articles/715262/))
 </code>
 
 # Test case design techniques
@@ -99,9 +103,20 @@
 <code>[Quality Assurance Handbook]([Infinum QA Handbook](https://infinum.com/handbook/qa))
 </code>
 
+<code>[QA book]([100 - Year QA Textbook](https://mentorpiece.education/textbook/))
+</code>
+
 # English 
 
 <code>[Learning English]([Courses, grammar, vocabulary](https://www.bbc.co.uk/))
+</code>
+
+<code>[Подборка полезных ресурсов]([Список для самостоятельного изучения](https://bright-desert-dc9.notion.site/42767080b827485d9dcc75eaaf76f05c))
+</code>
+
+# Interview 
+
+<code>[Check-list of questions]([Список областей для вопросов](https://lilovayakorova.notion.site/0d5313d70fb14722bf64b9d1e9f39c73))
 </code>
 
 
