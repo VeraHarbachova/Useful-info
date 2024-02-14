@@ -39,7 +39,7 @@
 
 # Postman
 
-<code>[API Testing]([API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4))
+<code>[Postman Beginner's Course - API Testing]([API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4))
 </code>
 
 <code>[Шпаргалка по Postman]([API Testing](https://testengineer.ru/postman-cheat-sheet/))
