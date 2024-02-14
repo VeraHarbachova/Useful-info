@@ -39,7 +39,10 @@
 
 # Postman
 
-<code>[Postman Beginner's Course]([API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4))
+<code>[Шпаргалка по Postman]([API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4))
+</code>
+
+<code>[Шпаргалка по Postman]([API Testing](https://testengineer.ru/postman-cheat-sheet/))
 </code>
 
 <code>[Разбор OpenAPI документации "try.vikunja.io" с использованием Postman (2-3 примера)]([ProTestingInfo QA](https://www.youtube.com/watch?v=7BvrTyrOVIM))
