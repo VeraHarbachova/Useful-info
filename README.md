@@ -89,7 +89,7 @@
 
 # SQL 
 
-<code>[Огромная шпаргалка с готовыми запросами SQL (SQLite)]([SQL](https://uproger.com/ogromnaya-shpargalka-s-gotovymi-zaprosami-sql-sqlite/))
+<code>[Огромная шпаргалка с готовыми запросами SQL]([SQL](https://uproger.com/ogromnaya-shpargalka-s-gotovymi-zaprosami-sql-sqlite/))
 </code>
 
 # Start in Automation (articles, tools)
