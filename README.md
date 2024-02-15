@@ -87,6 +87,9 @@
 <code>[Decision Table — что это и как применять]([Decision Table](https://habr.com/ru/articles/546432/))
 </code>
 
+<code>[Классы эквивалентности и граничные значения]([Подробно с примерами](https://qalearning.net/usefullresourses/equivalence_partitioning))
+</code>
+
 # Start in Automation (articles, tools)
 
 <code>[Ценный QA Automation – кто он на самом деле? Загадка от Жака Фреско]([стать QAA](https://habr.com/ru/companies/skyeng/articles/705190/))
