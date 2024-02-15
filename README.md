@@ -87,11 +87,6 @@
 <code>[Decision Table — что это и как применять]([Decision Table](https://habr.com/ru/articles/546432/))
 </code>
 
-# SQL 
-
-<code>[Огромная шпаргалка с готовыми запросами]([SQL](https://uproger.com/ogromnaya-shpargalka-s-gotovymi-zaprosami-sql-sqlite/))
-</code>
-
 # Start in Automation (articles, tools)
 
 <code>[Ценный QA Automation – кто он на самом деле? Загадка от Жака Фреско]([стать QAA](https://habr.com/ru/companies/skyeng/articles/705190/))
@@ -126,7 +121,6 @@
 
 <code>[Check-list of questions]([Список областей для вопросов](https://lilovayakorova.notion.site/0d5313d70fb14722bf64b9d1e9f39c73))
 </code>
-
 
 
 
