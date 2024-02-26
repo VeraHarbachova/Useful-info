@@ -82,6 +82,9 @@
 <code>[Памятка тестировщику]([Чит-лист функционального тестирования](https://habr.com/ru/articles/715262/))
 </code>
 
+<code>[Примеры тест-кейсов]([Текстовое поле](https://habr.com/ru/articles/790962/))
+</code>
+
 # Test case design techniques
 
 <code>[Decision Table — что это и как применять]([Decision Table](https://habr.com/ru/articles/546432/))
