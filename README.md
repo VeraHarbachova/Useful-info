@@ -93,6 +93,9 @@
 <code>[Классы эквивалентности и граничные значения]([Подробно с примерами](https://qalearning.net/usefullresourses/equivalence_partitioning))
 </code>
 
+<code>[Тест-дизайн]([на примере проверки систем оплаты](https://habr.com/ru/companies/petrovich-tech/articles/798347/))
+</code>
+
 # Start in Automation (articles, tools)
 
 <code>[Ценный QA Automation – кто он на самом деле? Загадка от Жака Фреско]([стать QAA](https://habr.com/ru/companies/skyeng/articles/705190/))
