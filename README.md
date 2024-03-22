@@ -131,6 +131,11 @@
 <code>[Check-list of questions]([Список областей для вопросов](https://lilovayakorova.notion.site/0d5313d70fb14722bf64b9d1e9f39c73))
 </code>
 
+# AI
+
+<code>[AI-стек QA]([Инструменты для разных видов тестирования](https://testengineer.ru/ai-tool-stack/))
+</code>
+
 
 
 
