@@ -33,6 +33,9 @@
 <code>[CSS и XPath для QA]([чтобы разобраться с локаторами, нужно всего лишь…](https://habr.com/ru/companies/skyeng/articles/588282/))
 </code>
 
+<code>[Xpath]([залог стабильных UI-автотестов на Web и Mobile Web](https://habr.com/ru/companies/vk/articles/806661/))
+</code>
+
 # Git
 <code>[Гайд по работе с деревом коммитов Git для начинающих]([Git basics](https://proglib.io/p/gayd-po-rabote-s-derevom-kommitov-git-dlya-nachinayushchih-2023-02-02))
 </code>
