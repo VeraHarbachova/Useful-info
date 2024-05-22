@@ -91,6 +91,9 @@
 <code>[Локализация и интернационализация]([Полезный checklist](https://habr.com/ru/articles/532836/))
 </code>
 
+<code>[100 тест-кейсов для страницы входа в систему]([Список проверок](https://qarocks.ru/100-test-cases-for-login-page/))
+</code>
+
 # Test case design techniques
 
 <code>[Decision Table — что это и как применять]([Decision Table](https://habr.com/ru/articles/546432/))
